@@ -40,6 +40,8 @@ Esses arquivos representam diferentes aspectos do processo industrial e são com
 
 ## Objetivos do Projeto
 
+Desenvolver uma solução analítica para apoiar a otimização do processo de refinamento do aço na Steelproof, estruturando o trabalho em três etapas: planejamento, desenvolvimento técnico da solução e relatório final.
+
 Este projeto busca:
 
 - compreender o problema de negócio da Steelproof
@@ -125,6 +127,8 @@ O repositório reúne:
 
 ## Resultados
 
+Organização de um fluxo completo de solução de dados, desde a definição do problema até a entrega final orientada ao negócio. Integração de múltiplas bases do processo industrial e construção de uma solução técnica capaz de gerar análise útil para apoio a decisões operacionais e ampliação do entendimento do processo de refinamento do aço.
+
 O projeto inclui:
 
 * definição estruturada do problema
@@ -137,6 +141,23 @@ O projeto inclui:
 ## Conclusão
 
 Este projeto demonstra um fluxo completo de solução analítica aplicada a um problema industrial, cobrindo desde a definição estratégica do problema até a entrega final orientada a negócio. A estrutura em três etapas permite visualizar com clareza o raciocínio do projeto, o desenvolvimento da solução e a consolidação dos resultados para apoio à tomada de decisão na Steelproof.
+
+## O que foi aprendido
+
+Desenvolvimento e consolidação de habilidades em:
+- estruturação de projetos analíticos em múltiplas etapas
+- integração de diferentes fontes de dados industriais
+- desenvolvimento e avaliação de modelos preditivos
+- comunicação técnica e executiva de resultados
+- conexão entre modelagem e aplicação em contexto industrial
+
+## Melhorias Futuras
+
+Possibilidades de evolução do projeto:
+- ampliar o conjunto de atributos derivados do processo
+- testar modelos adicionais e estratégias mais robustas de validação
+- aprofundar a análise de interpretabilidade
+- transformar a solução em pipeline mais automatizado para uso contínuo
 
 ## Autor
 
